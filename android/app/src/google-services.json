@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450929490019",
+    "project_id": "chatter-57986",
+    "storage_bucket": "chatter-57986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450929490019:android:5b57d63365e37536892056",
+        "android_client_info": {
+          "package_name": "co.anupam.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450929490019-ggeom8vdne5a98g75mvj6pptkbpum9ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrko_MIB3I7bG_rFfY4nfpAGDpJKg752s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450929490019-ggeom8vdne5a98g75mvj6pptkbpum9ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
